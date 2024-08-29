@@ -2,8 +2,12 @@
 
 ## Before you begin
 
+Install PySpark.
+
 #### Mac
-TODO: someone with a mac fill this in...
+To install PySpark on most linux/mac machines just run
+
+`pip install pyspark`
 
 #### Windows
 PySpark requires java. On Windows we recommend using OpenJDK which can be downloaded from [here](https://learn.microsoft.com/en-us/java/openjdk/download).
