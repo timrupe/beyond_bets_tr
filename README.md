@@ -34,3 +34,4 @@ Remember the goal is NOT to perfect the codebase. The goal is to implement the r
 
 Please note, in a real data warehouse the data would sit in physical tables. In order to not write a bunch of junk to your hard drive the datasets are randomly generated.
 
+Lastly, all logic needs to be contained within the beyond_bets package itself. Any code in the `examples` directory is just to demonstrate how the code might be used.
